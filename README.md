@@ -1,3 +1,4 @@
+
 # AI Health Prediction System
 
 A full stack AI healthcare prediction system built using Machine Learning and Streamlit.
@@ -67,3 +68,6 @@ Mobile responsive UI
 ## Author
 
 Meghana
+# AI-Health-Prediction-System
+Machine Learning based health prediction system with authentication, disease risk analysis, dashboards, and reports.
+>>>>>>> acbb97597b749e2dfa4c1f5c60739fd7557bca5c
